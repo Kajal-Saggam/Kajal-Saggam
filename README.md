@@ -88,7 +88,7 @@ Implemented a Wazuh-based SIEM solution in a home lab environment to monitor end
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/kajal-saggam-b2138b31b?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- 📧 Email: your-email@example.com
+- 📧 Email: kajalsaggam@gmail.com
 
 ---
 
