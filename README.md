@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner.png" alt="GitHub Banner" width="100%">
+</p>
+
 # Hi there 👋, I'm Kajal Saggam
 
 <div align="center">
